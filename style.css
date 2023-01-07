@@ -1,0 +1,60 @@
+*{ 
+    margin: 0 auto;
+}
+
+.contain { 
+    width: 500px;
+    height: 440px;
+    border-radius: 50px;
+    background: #fff;
+    box-shadow: 24px 24px 48px rgba(174, 210, 236, 0.4), inset 12px 12px 24px #e7f2f9, inset -24px -24px 48px #b8d8ee;
+}
+
+.contain h2 { 
+    text-align: center;
+    margin-top: 40px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #3e90d0;
+}
+
+input { 
+    width: 100%;
+    padding: 12px 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: none;
+    outline: none;
+    background-color: #6facdc;
+    border-radius: 30px;
+    box-shadow: 0px 4px 24px #b5d6ee, inset 6px 6px 12px #63a5d9, inset -12px -12px 24px #3e90d0;
+}
+
+.mail { 
+    width: 430px;
+}
+.pass { 
+    width: 430px;
+
+}
+.btn { 
+    text-align: center;
+    width: 100px;
+    font-weight: 700;
+    transition: 0.2s ease-out;
+}
+
+.btn:hover { 
+    cursor: pointer;
+    box-shadow: 0px 4px 24px #b5d6ee, inset 6px 6px 12px #5b7c96, inset -12px -12px 24px #3e90d0;
+}
+
+.contain p {
+    text-align: center;
+    color: #3e90d0;
+    font-size: 20px;
+    margin-top: 100px;
+}
+.contain a { 
+    color: #1166a7;
+}
